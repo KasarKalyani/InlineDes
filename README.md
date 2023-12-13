@@ -8,7 +8,13 @@ To see detail we need to navigate to new page after clicking on overview.
 
 Mostly it should be on same page for users ease.
 
-This Project help to do so
+We have Mongo database used for this with two collections (tiledatas-> have reference id for respective entry in description collection).
+
+This Project help to do so.
+
+#FrontEnd
+
+InlineDesFrontEnd Repository
 
 #Instructions To Run On Local
 
@@ -16,6 +22,3 @@ npm install
 
 npm start
 
-#FrontEnd
-
-InlineDesFrontEnd Repository
